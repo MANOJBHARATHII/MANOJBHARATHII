@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hey, I'm Manoj S
 
-<!--
-**MANOJBHARATHII/MANOJBHARATHII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Developer | Python Backend Developer | AI & LLM Enthusiast
 
-Here are some ideas to get you started:
+Building intelligent applications, AI-powered automation, and scalable backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming ideas into real-world products using Artificial Intelligence, Machine Learning, Generative AI, and modern web technologies.
+
+🔭 Currently building AI-powered applications and RAG systems
+
+🤖 Exploring LLMs, Agentic AI, and AI Automation
+
+💻 Developing backend applications with Python & FastAPI
+
+🌱 Learning advanced Data Structures & Algorithms
+
+🎯 Goal: Become a skilled AI Engineer / Software Developer
+
+📍 Chennai, India

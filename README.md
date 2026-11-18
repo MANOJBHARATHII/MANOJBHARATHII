@@ -1,58 +1,123 @@
-<!-- HERO SECTION -->
-<h1 align="center">👋 Hey, I'm Manoj S</h1>
+<h1 align="center">Hi 👋, I'm Manoj</h1>
 
 <h3 align="center">
-  🚀 AI Developer | Python Backend Developer | AI & LLM Enthusiast
+  AI Engineer | LLMs | RAG | Agentic AI
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+Intelligent+Applications;Exploring+Generative+AI+%26+LLMs;Developing+Scalable+Backend+Systems;Turning+Ideas+Into+AI+Solutions" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  Building intelligent applications, AI-powered automation, and scalable backend systems.
-</p>
-
-<p align="center">
-  I enjoy transforming ideas into real-world products using
-  <b>Artificial Intelligence, Machine Learning, Generative AI,</b>
-  and modern web technologies.
+  Building intelligent, scalable and production-ready AI applications.
 </p>
 
 ---
 
-<!-- ABOUT ME -->
-<h2>🚀 About Me</h2>
+<h2>🛠️ Tech Stack</h2>
 
-<table>
-  <tr>
-    <td>🔭</td>
-    <td>Currently building AI-powered applications and RAG systems</td>
-  </tr>
-  <tr>
-    <td>🤖</td>
-    <td>Exploring LLMs, Agentic AI, and AI Automation</td>
-  </tr>
-  <tr>
-    <td>💻</td>
-    <td>Developing backend applications with Python & FastAPI</td>
-  </tr>
-  <tr>
-    <td>🌱</td>
-    <td>Learning advanced Data Structures & Algorithms</td>
-  </tr>
-  <tr>
-    <td>🎯</td>
-    <td>Goal: Become a skilled AI Engineer / Software Developer</td>
-  </tr>
-  <tr>
-    <td>📍</td>
-    <td>Chennai, India</td>
-  </tr>
-</table>
+<p align="left">
 
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</a>
 
+<!-- TensorFlow -->
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</a>
 
+<!-- FastAPI -->
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<!-- LangChain -->
+<a href="https://www.langchain.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+</a>
+
+<!-- LangGraph -->
+<a href="https://www.langchain.com/langgraph" target="_blank">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/>
+</a>
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</a>
+
+<!-- Redis -->
+<a href="https://redis.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</a>
+
+<!-- Pinecone -->
+<a href="https://www.pinecone.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+</a>
+
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</a>
+
+<!-- AWS -->
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+</a>
+
+</p>
+
+---
+
+<h2>🤖 AI Engineering</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20AI-FF4B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-00A67E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Semantic%20Search-4A90E2?style=for-the-badge" />
+
+</p>
+
+---
+
+<h2>🚀 What I Build</h2>
+
+<ul>
+  <li>AI Agents & Agentic AI Systems</li>
+  <li>RAG Applications</li>
+  <li>LLM-powered Applications</li>
+  <li>FastAPI AI Backends</li>
+  <li>Vector Search & Semantic Search</li>
+  <li>AI Automation Systems</li>
+  <li>Production-ready AI APIs</li>
+</ul>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+
+</p>
+
+---
+
+<h2>📫 Connect With Me</h2>
+
+<p align="left">
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>

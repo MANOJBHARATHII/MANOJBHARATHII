@@ -1,1559 +1,779 @@
-<!-- ========================= -->
-<!--        PROFILE HEADER     -->
-<!-- ========================= -->
+<!-- ========================================================= -->
+<!--                 GITHUB PROFILE README                    -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-  <h1 style="color:#58a6ff; font-size:42px;">
-    MANOJ S
-  </h1>
+# Hi, I'm Manoj
 
-  <h3 style="color:#8b949e;">
-    AI Engineer | LLM Engineer | RAG Systems | Agentic AI | Backend Engineering
-  </h3>
+### AI Engineer | LLMs | RAG Systems | Agentic AI | Backend Engineering
 
-  <p>
-    <b>Building intelligent, scalable and production-ready AI applications</b>
-  </p>
+<p>
+Building intelligent, scalable and production-ready AI applications
+using modern AI engineering, backend and cloud technologies.
+</p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile Views">
+
+</div>
+
+---
+
+## ABOUT ME
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### AI ENGINEERING
+
+- AI Engineer focused on practical AI applications
+- Large Language Model applications
+- Retrieval-Augmented Generation
+- Agentic AI systems
+- AI workflow automation
+- Semantic search
+- Vector databases
+- AI API development
+- Production-oriented AI architecture
+- Intelligent knowledge systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### BACKEND & CLOUD
+
+- Python backend development
+- FastAPI REST APIs
+- PostgreSQL database systems
+- Redis caching
+- Docker containerization
+- Kubernetes orchestration
+- AWS cloud infrastructure
+- Scalable AI services
+- API integration
+- Cloud-ready application architecture
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# TECH STACK
+
+## PROGRAMMING & AI
+
+<div align="center">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+</a>
+
+<a href="https://huggingface.co/" target="_blank">
+<img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+</a>
+
+<a href="https://ollama.com/" target="_blank">
+<img src="https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logoColor=white" alt="Ollama">
+</a>
 
 </div>
 
 <br>
 
-<!-- ========================= -->
-<!--       ABOUT ME            -->
-<!-- ========================= -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-CORE%20LANGUAGE-3776AB?style=for-the-badge" alt="Python">
+<img src="https://img.shields.io/badge/TENSORFLOW-MACHINE%20LEARNING-FF6F00?style=for-the-badge" alt="TensorFlow">
+<img src="https://img.shields.io/badge/HUGGING%20FACE-OPEN%20SOURCE%20AI-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face">
+<img src="https://img.shields.io/badge/OLLAMA-LOCAL%20LLMs-000000?style=for-the-badge" alt="Ollama">
+
+</div>
+
+---
+
+# LLM & AI FRAMEWORKS
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center" width="900">
+<img src="https://img.shields.io/badge/LANGCHAIN-LLM%20ORCHESTRATION-1C3C3C?style=for-the-badge" alt="LangChain">
 
-        <h2 style="color:#58a6ff;">About Me</h2>
+<img src="https://img.shields.io/badge/LANGGRAPH-AGENTIC%20AI-000000?style=for-the-badge" alt="LangGraph">
 
-        <p style="font-size:17px; line-height:1.8;">
-          I am an AI Engineer passionate about building intelligent applications
-          using Large Language Models, Retrieval-Augmented Generation,
-          Agentic AI, Machine Learning and modern backend technologies.
-        </p>
+<img src="https://img.shields.io/badge/HUGGING%20FACE-TRANSFORMERS-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face">
 
-        <p style="font-size:17px; line-height:1.8;">
-          I focus on transforming AI concepts into practical applications,
-          scalable APIs, intelligent agents, RAG pipelines, semantic search
-          systems and production-ready backend services.
-        </p>
-
-        <p style="font-size:17px; line-height:1.8;">
-          My current technical focus includes LLM applications, RAG systems,
-          LangChain, LangGraph, FastAPI, vector databases, PostgreSQL,
-          Redis, Docker, Kubernetes and cloud deployment with AWS.
-        </p>
-
-      </td>
-    </tr>
-  </table>
+<img src="https://img.shields.io/badge/OLLAMA-LOCAL%20INFERENCE-000000?style=for-the-badge" alt="Ollama">
 
 </div>
 
 <br>
 
-<!-- ========================= -->
-<!--       AI ENGINEERING      -->
-<!-- ========================= -->
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### LANGCHAIN
+
+LLM orchestration<br>
+RAG pipelines<br>
+Retrievers<br>
+Tools<br>
+Prompt workflows
+
+</td>
+
+<td align="center" width="25%">
+
+### LANGGRAPH
+
+Agent workflows<br>
+State management<br>
+Graph execution<br>
+Routing<br>
+Multi-step AI workflows
+
+</td>
+
+<td align="center" width="25%">
+
+### HUGGING FACE
+
+Transformers<br>
+Open-source models<br>
+Embeddings<br>
+Model ecosystem<br>
+NLP workflows
+
+</td>
+
+<td align="center" width="25%">
+
+### OLLAMA
+
+Local LLMs<br>
+Model serving<br>
+Local inference<br>
+Private AI<br>
+AI experimentation
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# BACKEND DEVELOPMENT
 
 <div align="center">
 
-  <h2 style="color:#58a6ff;">AI Engineering</h2>
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge" alt="FastAPI">
 
-  <table>
-    <tr>
-      <td align="center" width="220">
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge" alt="PostgreSQL">
 
-        <h3 style="color:#3776AB;">AI Applications</h3>
-
-        <p>
-          LLM Applications<br>
-          RAG Systems<br>
-          Agentic AI<br>
-          AI Automation<br>
-          Semantic Search
-        </p>
-
-      </td>
-
-      <td align="center" width="220">
-
-        <h3 style="color:#FF6F00;">Machine Learning</h3>
-
-        <p>
-          Supervised Learning<br>
-          Unsupervised Learning<br>
-          Deep Learning<br>
-          NLP<br>
-          Computer Vision
-        </p>
-
-      </td>
-
-      <td align="center" width="220">
-
-        <h3 style="color:#00A67E;">Backend</h3>
-
-        <p>
-          FastAPI<br>
-          REST APIs<br>
-          Async Python<br>
-          API Architecture<br>
-          Microservices
-        </p>
-
-      </td>
-
-      <td align="center" width="220">
-
-        <h3 style="color:#8B5CF6;">Infrastructure</h3>
-
-        <p>
-          Docker<br>
-          Kubernetes<br>
-          AWS<br>
-          Redis<br>
-          PostgreSQL
-        </p>
-
-      </td>
-    </tr>
-  </table>
+<img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge" alt="Redis">
 
 </div>
 
 <br>
 
-<!-- ========================= -->
-<!--       TECH STACK          -->
-<!-- ========================= -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/FASTAPI-HIGH%20PERFORMANCE%20API-009688?style=for-the-badge" alt="FastAPI">
+
+<img src="https://img.shields.io/badge/POSTGRESQL-RELATIONAL%20DATABASE-4169E1?style=for-the-badge" alt="PostgreSQL">
+
+<img src="https://img.shields.io/badge/REDIS-CACHING%20%26%20DATA-DC382D?style=for-the-badge" alt="Redis">
+
+</div>
+
+---
+
+# VECTOR DATABASE & AI SEARCH
 
 <div align="center">
 
-  <h2 style="color:#58a6ff;">Tech Stack</h2>
-
-  <p style="color:#8b949e;">
-    Technologies and tools I use to design, develop and deploy AI systems
-  </p>
+<img src="https://img.shields.io/badge/PINECONE-VECTOR%20DATABASE-000000?style=for-the-badge" alt="Pinecone">
 
 </div>
 
 <br>
 
-<!-- PYTHON -->
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### VECTOR SEARCH
+
+Semantic similarity<br>
+Nearest-neighbor search<br>
+Embedding retrieval<br>
+Context retrieval
+
+</td>
+
+<td align="center" width="33%">
+
+### RAG INFRASTRUCTURE
+
+Document indexing<br>
+Chunking<br>
+Embeddings<br>
+Metadata filtering
+
+</td>
+
+<td align="center" width="33%">
+
+### AI KNOWLEDGE SYSTEMS
+
+Enterprise search<br>
+Document intelligence<br>
+Knowledge bases<br>
+Context-aware applications
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# DEVOPS & CLOUD
 
 <div align="center">
 
-  <a href="https://www.python.org/">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      width="65"
-      height="65"
-      alt="Python"
-    />
-  </a>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge" alt="Docker">
 
-  <br>
+<img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge" alt="Kubernetes">
 
-  <table>
-    <tr>
-      <td align="center">
-        <b style="color:#3776AB;">PYTHON</b>
-      </td>
-    </tr>
-  </table>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS">
 
 </div>
 
 <br>
 
-<!-- ========================= -->
-<!--        AI / ML            -->
-<!-- ========================= -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/DOCKER-CONTAINERIZATION-2496ED?style=for-the-badge" alt="Docker">
+
+<img src="https://img.shields.io/badge/KUBERNETES-ORCHESTRATION-326CE5?style=for-the-badge" alt="Kubernetes">
+
+<img src="https://img.shields.io/badge/AWS-CLOUD%20INFRASTRUCTURE-232F3E?style=for-the-badge" alt="AWS">
+
+</div>
+
+---
+
+# COMPLETE TECHNOLOGY STACK
 
 <div align="center">
 
-  <h2 style="color:#FF6F00;">AI / Machine Learning</h2>
+<table>
 
-  <br>
+<tr>
+<th>CATEGORY</th>
+<th>TECHNOLOGIES</th>
+</tr>
 
-  <table>
-    <tr>
+<tr>
+<td><strong>PROGRAMMING</strong></td>
+<td><strong>PYTHON</strong></td>
+</tr>
 
-      <!-- TensorFlow -->
+<tr>
+<td><strong>MACHINE LEARNING</strong></td>
+<td><strong>TENSORFLOW</strong></td>
+</tr>
 
-      <td align="center" width="180">
+<tr>
+<td><strong>LLM</strong></td>
+<td><strong>HUGGING FACE | OLLAMA</strong></td>
+</tr>
 
-        <a href="https://www.tensorflow.org/">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-            width="55"
-            height="55"
-            alt="TensorFlow"
-          />
-        </a>
+<tr>
+<td><strong>AI FRAMEWORKS</strong></td>
+<td><strong>LANGCHAIN | LANGGRAPH</strong></td>
+</tr>
 
-        <br><br>
+<tr>
+<td><strong>BACKEND</strong></td>
+<td><strong>FASTAPI</strong></td>
+</tr>
 
-        <div style="
-          background:#FF6F00;
-          color:white;
-          padding:10px 18px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          TENSORFLOW
-        </div>
+<tr>
+<td><strong>DATABASE</strong></td>
+<td><strong>POSTGRESQL</strong></td>
+</tr>
 
-      </td>
+<tr>
+<td><strong>CACHING</strong></td>
+<td><strong>REDIS</strong></td>
+</tr>
 
-      <!-- Hugging Face -->
+<tr>
+<td><strong>VECTOR DATABASE</strong></td>
+<td><strong>PINECONE</strong></td>
+</tr>
 
-      <td align="center" width="180">
+<tr>
+<td><strong>CONTAINERIZATION</strong></td>
+<td><strong>DOCKER</strong></td>
+</tr>
 
-        <a href="https://huggingface.co/">
-          <img
-            src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
-            width="55"
-            height="55"
-            alt="Hugging Face"
-          />
-        </a>
+<tr>
+<td><strong>ORCHESTRATION</strong></td>
+<td><strong>KUBERNETES</strong></td>
+</tr>
 
-        <br><br>
+<tr>
+<td><strong>CLOUD</strong></td>
+<td><strong>AWS</strong></td>
+</tr>
 
-        <div style="
-          background:#FFD21E;
-          color:#111111;
-          padding:10px 18px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          HUGGING FACE
-        </div>
+</table>
 
-      </td>
+</div>
 
-      <!-- Ollama -->
+---
 
-      <td align="center" width="180">
+# AI ENGINEERING ARCHITECTURE
 
-        <a href="https://ollama.com/">
-          <img
-            src="https://ollama.com/public/ollama.png"
-            width="55"
-            height="55"
-            alt="Ollama"
-          />
-        </a>
+<div align="center">
 
-        <br><br>
+<table>
+<tr>
 
-        <div style="
-          background:#111111;
-          color:white;
-          padding:10px 18px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          OLLAMA
-        </div>
+<td align="center">
 
-      </td>
+<strong>USER</strong>
 
-    </tr>
-  </table>
+<br>
+
+↓
+
+<br>
+
+<strong>FRONTEND</strong>
+
+<br>
+
+↓
+
+<br>
+
+<strong>FASTAPI</strong>
+
+<br>
+
+↓
+
+<br>
+
+<strong>LANGGRAPH</strong>
+
+<br>
+
+↓
+
+<br>
+
+<strong>LANGCHAIN</strong>
+
+<br>
+
+↓
+
+<br>
+
+<strong>LLM</strong>
+
+<br>
+
+↓
+
+<br>
+
+<strong>RAG PIPELINE</strong>
+
+<br>
+
+↓
+
+<br>
+
+<strong>EMBEDDINGS</strong>
+
+<br>
+
+↓
+
+<br>
+
+<strong>PINECONE</strong>
+
+<br>
+
+↓
+
+<br>
+
+<strong>POSTGRESQL</strong>
+
+<br>
+
+↓
+
+<br>
+
+<strong>REDIS</strong>
+
+<br>
+
+↓
+
+<br>
+
+<strong>DOCKER</strong>
+
+<br>
+
+↓
+
+<br>
+
+<strong>KUBERNETES</strong>
+
+<br>
+
+↓
+
+<br>
+
+<strong>AWS</strong>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# WHAT I BUILD
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### LLM APPLICATIONS
+
+AI Assistants<br>
+LLM Applications<br>
+Prompt Engineering<br>
+Model Integration<br>
+AI Automation
+
+</td>
+
+<td align="center" width="25%">
+
+### RAG SYSTEMS
+
+Document Q&A<br>
+Semantic Search<br>
+Embeddings<br>
+Vector Search<br>
+Knowledge Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### AGENTIC AI
+
+AI Agents<br>
+Tool Calling<br>
+Agent Routing<br>
+Stateful Workflows<br>
+LangGraph Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### BACKEND SYSTEMS
+
+FastAPI<br>
+REST APIs<br>
+PostgreSQL<br>
+Redis<br>
+Cloud Deployment
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# AI ENGINEERING FOCUS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20ENGINEERING-CORE%20FOCUS-000000?style=for-the-badge" alt="AI Engineering">
+
+<img src="https://img.shields.io/badge/LLM-LARGE%20LANGUAGE%20MODELS-1C3C3C?style=for-the-badge" alt="LLM">
+
+<img src="https://img.shields.io/badge/RAG-RETRIEVAL%20AUGMENTED%20GENERATION-5E35B1?style=for-the-badge" alt="RAG">
+
+<img src="https://img.shields.io/badge/AGENTIC%20AI-INTELLIGENT%20AGENTS-000000?style=for-the-badge" alt="Agentic AI">
 
 </div>
 
 <br>
 
-<!-- ========================= -->
-<!--       LLM FRAMEWORKS      -->
-<!-- ========================= -->
-
 <div align="center">
 
-  <h2 style="color:#A855F7;">LLM & AI Frameworks</h2>
+<img src="https://img.shields.io/badge/BACKEND-FASTAPI-009688?style=for-the-badge" alt="Backend">
 
-  <br>
+<img src="https://img.shields.io/badge/DATABASE-POSTGRESQL-4169E1?style=for-the-badge" alt="PostgreSQL">
 
-  <table>
+<img src="https://img.shields.io/badge/CACHE-REDIS-DC382D?style=for-the-badge" alt="Redis">
 
-    <tr>
-
-      <!-- LangChain -->
-
-      <td align="center" width="220">
-
-        <div style="
-          background:linear-gradient(135deg,#1f2937,#16a34a);
-          color:white;
-          padding:18px 30px;
-          border-radius:14px;
-          font-size:18px;
-          font-weight:bold;
-        ">
-          LANGCHAIN
-        </div>
-
-        <br>
-
-        <p style="color:#8b949e;">
-          LLM Application Framework
-        </p>
-
-      </td>
-
-      <!-- LangGraph -->
-
-      <td align="center" width="220">
-
-        <div style="
-          background:linear-gradient(135deg,#312e81,#7c3aed);
-          color:white;
-          padding:18px 30px;
-          border-radius:14px;
-          font-size:18px;
-          font-weight:bold;
-        ">
-          LANGGRAPH
-        </div>
-
-        <br>
-
-        <p style="color:#8b949e;">
-          Agentic AI & Workflow Graphs
-        </p>
-
-      </td>
-
-      <!-- Hugging Face -->
-
-      <td align="center" width="220">
-
-        <div style="
-          background:linear-gradient(135deg,#facc15,#f59e0b);
-          color:#111111;
-          padding:18px 30px;
-          border-radius:14px;
-          font-size:18px;
-          font-weight:bold;
-        ">
-          HUGGING FACE
-        </div>
-
-        <br>
-
-        <p style="color:#8b949e;">
-          Open Source AI Models
-        </p>
-
-      </td>
-
-      <!-- Ollama -->
-
-      <td align="center" width="220">
-
-        <div style="
-          background:linear-gradient(135deg,#111111,#374151);
-          color:white;
-          padding:18px 30px;
-          border-radius:14px;
-          font-size:18px;
-          font-weight:bold;
-        ">
-          OLLAMA
-        </div>
-
-        <br>
-
-        <p style="color:#8b949e;">
-          Local LLM Runtime
-        </p>
-
-      </td>
-
-    </tr>
-
-  </table>
+<img src="https://img.shields.io/badge/VECTOR%20SEARCH-PINECONE-000000?style=for-the-badge" alt="Pinecone">
 
 </div>
 
 <br>
 
-<!-- ========================= -->
-<!--        BACKEND             -->
-<!-- ========================= -->
-
 <div align="center">
 
-  <h2 style="color:#00A67E;">Backend Engineering</h2>
+<img src="https://img.shields.io/badge/CONTAINERS-DOCKER-2496ED?style=for-the-badge" alt="Docker">
 
-  <br>
+<img src="https://img.shields.io/badge/ORCHESTRATION-KUBERNETES-326CE5?style=for-the-badge" alt="Kubernetes">
 
-  <table>
-
-    <tr>
-
-      <!-- FastAPI -->
-
-      <td align="center" width="240">
-
-        <a href="https://fastapi.tiangolo.com/">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
-            width="65"
-            height="65"
-            alt="FastAPI"
-          />
-        </a>
-
-        <br><br>
-
-        <div style="
-          background:#009688;
-          color:white;
-          padding:12px 25px;
-          border-radius:12px;
-          font-weight:bold;
-        ">
-          FASTAPI
-        </div>
-
-      </td>
-
-      <!-- PostgreSQL -->
-
-      <td align="center" width="240">
-
-        <a href="https://www.postgresql.org/">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-            width="65"
-            height="65"
-            alt="PostgreSQL"
-          />
-        </a>
-
-        <br><br>
-
-        <div style="
-          background:#336791;
-          color:white;
-          padding:12px 25px;
-          border-radius:12px;
-          font-weight:bold;
-        ">
-          POSTGRESQL
-        </div>
-
-      </td>
-
-      <!-- Redis -->
-
-      <td align="center" width="240">
-
-        <a href="https://redis.io/">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-            width="65"
-            height="65"
-            alt="Redis"
-          />
-        </a>
-
-        <br><br>
-
-        <div style="
-          background:#DC382D;
-          color:white;
-          padding:12px 25px;
-          border-radius:12px;
-          font-weight:bold;
-        ">
-          REDIS
-        </div>
-
-      </td>
-
-    </tr>
-
-  </table>
+<img src="https://img.shields.io/badge/CLOUD-AWS-232F3E?style=for-the-badge" alt="AWS">
 
 </div>
 
-<br>
+---
 
-<!-- ========================= -->
-<!--       VECTOR DATABASES     -->
-<!-- ========================= -->
+# AI DEVELOPMENT WORKFLOW
 
 <div align="center">
 
-  <h2 style="color:#14B8A6;">Vector Database & Search</h2>
+<table>
 
-  <br>
+<tr>
+<td align="center">
 
-  <table>
+<strong>1. DATA</strong>
 
-    <tr>
+<br>
 
-      <!-- Pinecone -->
+Documents<br>
+Knowledge<br>
+Structured Data
 
-      <td align="center" width="300">
+</td>
 
-        <div style="
-          background:linear-gradient(135deg,#0f766e,#14b8a6);
-          color:white;
-          padding:20px 35px;
-          border-radius:14px;
-          font-size:20px;
-          font-weight:bold;
-        ">
-          PINECONE
-        </div>
+<td align="center">
 
-        <br>
+<strong>→</strong>
 
-        <p style="color:#8b949e;">
-          Vector Database<br>
-          Semantic Search<br>
-          Retrieval Systems
-        </p>
+</td>
 
-      </td>
+<td align="center">
 
-      <!-- PostgreSQL -->
+<strong>2. EMBEDDINGS</strong>
 
-      <td align="center" width="300">
+<br>
 
-        <div style="
-          background:linear-gradient(135deg,#1e3a8a,#2563eb);
-          color:white;
-          padding:20px 35px;
-          border-radius:14px;
-          font-size:20px;
-          font-weight:bold;
-        ">
-          POSTGRESQL
-        </div>
+Semantic Representation<br>
+Vector Generation
 
-        <br>
+</td>
 
-        <p style="color:#8b949e;">
-          Relational Database<br>
-          Data Storage<br>
-          Application Backend
-        </p>
+<td align="center">
 
-      </td>
+<strong>→</strong>
 
-      <!-- Redis -->
+</td>
 
-      <td align="center" width="300">
+<td align="center">
 
-        <div style="
-          background:linear-gradient(135deg,#991b1b,#ef4444);
-          color:white;
-          padding:20px 35px;
-          border-radius:14px;
-          font-size:20px;
-          font-weight:bold;
-        ">
-          REDIS
-        </div>
+<strong>3. VECTOR SEARCH</strong>
 
-        <br>
+<br>
 
-        <p style="color:#8b949e;">
-          Caching<br>
-          Fast Data Access<br>
-          Background Tasks
-        </p>
+Pinecone<br>
+Similarity Search
 
-      </td>
+</td>
 
-    </tr>
+<td align="center">
 
-  </table>
+<strong>→</strong>
+
+</td>
+
+<td align="center">
+
+<strong>4. RAG</strong>
+
+<br>
+
+Context Retrieval<br>
+Grounded Generation
+
+</td>
+
+<td align="center">
+
+<strong>→</strong>
+
+</td>
+
+<td align="center">
+
+<strong>5. LLM</strong>
+
+<br>
+
+Reasoning<br>
+Response Generation
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
-<br>
+---
 
-<!-- ========================= -->
-<!--       DEVOPS               -->
-<!-- ========================= -->
+# ENGINEERING PRINCIPLES
 
 <div align="center">
 
-  <h2 style="color:#2496ED;">DevOps & Cloud</h2>
+<table>
 
-  <br>
+<tr>
 
-  <table>
+<td align="center" width="25%">
 
-    <tr>
+### SCALABLE
 
-      <!-- Docker -->
+Designing systems that can grow with users, data and workloads.
 
-      <td align="center" width="230">
+</td>
 
-        <a href="https://www.docker.com/">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-            width="65"
-            height="65"
-            alt="Docker"
-          />
-        </a>
+<td align="center" width="25%">
 
-        <br><br>
+### INTELLIGENT
 
-        <div style="
-          background:#2496ED;
-          color:white;
-          padding:12px 25px;
-          border-radius:12px;
-          font-weight:bold;
-        ">
-          DOCKER
-        </div>
+Building AI systems capable of retrieval, reasoning and automation.
 
-      </td>
+</td>
 
-      <!-- Kubernetes -->
+<td align="center" width="25%">
 
-      <td align="center" width="230">
+### PRODUCTION READY
 
-        <a href="https://kubernetes.io/">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
-            width="65"
-            height="65"
-            alt="Kubernetes"
-          />
-        </a>
+Focusing on APIs, databases, containers, monitoring and deployment.
 
-        <br><br>
+</td>
 
-        <div style="
-          background:#326CE5;
-          color:white;
-          padding:12px 25px;
-          border-radius:12px;
-          font-weight:bold;
-        ">
-          KUBERNETES
-        </div>
+<td align="center" width="25%">
 
-      </td>
+### CONTINUOUS LEARNING
 
-      <!-- AWS -->
+Exploring modern AI, LLM, Agentic AI and cloud technologies.
 
-      <td align="center" width="230">
+</td>
 
-        <a href="https://aws.amazon.com/">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
-            width="75"
-            height="65"
-            alt="AWS"
-          />
-        </a>
+</tr>
 
-        <br><br>
-
-        <div style="
-          background:#FF9900;
-          color:#111111;
-          padding:12px 25px;
-          border-radius:12px;
-          font-weight:bold;
-        ">
-          AWS
-        </div>
-
-      </td>
-
-    </tr>
-
-  </table>
+</table>
 
 </div>
 
-<br>
+---
 
-<!-- ========================= -->
-<!--       COMPLETE STACK       -->
-<!-- ========================= -->
+# CURRENT TECHNOLOGY FOCUS
 
 <div align="center">
 
-  <h2 style="color:#58a6ff;">Complete Technology Stack</h2>
+<img src="https://img.shields.io/badge/PYTHON-CORE-3776AB?style=for-the-badge" alt="Python">
 
-  <br>
+<img src="https://img.shields.io/badge/FASTAPI-BACKEND-009688?style=for-the-badge" alt="FastAPI">
 
-  <table>
+<img src="https://img.shields.io/badge/LLM-AI%20APPLICATIONS-1C3C3C?style=for-the-badge" alt="LLM">
 
-    <tr>
+<img src="https://img.shields.io/badge/RAG-KNOWLEDGE%20SYSTEMS-5E35B1?style=for-the-badge" alt="RAG">
 
-      <td align="center">
-        <div style="
-          background:#3776AB;
-          color:white;
-          padding:14px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          PYTHON
-        </div>
-      </td>
+<img src="https://img.shields.io/badge/LANGGRAPH-AGENTS-000000?style=for-the-badge" alt="LangGraph">
 
-      <td align="center">
-        <div style="
-          background:#FF6F00;
-          color:white;
-          padding:14px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          TENSORFLOW
-        </div>
-      </td>
+<img src="https://img.shields.io/badge/POSTGRESQL-DATABASE-4169E1?style=for-the-badge" alt="PostgreSQL">
 
-      <td align="center">
-        <div style="
-          background:#009688;
-          color:white;
-          padding:14px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          FASTAPI
-        </div>
-      </td>
+<img src="https://img.shields.io/badge/REDIS-CACHE-DC382D?style=for-the-badge" alt="Redis">
 
-      <td align="center">
-        <div style="
-          background:#16A34A;
-          color:white;
-          padding:14px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          LANGCHAIN
-        </div>
-      </td>
+<img src="https://img.shields.io/badge/PINECONE-VECTOR%20SEARCH-000000?style=for-the-badge" alt="Pinecone">
 
-      <td align="center">
-        <div style="
-          background:#7C3AED;
-          color:white;
-          padding:14px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          LANGGRAPH
-        </div>
-      </td>
+<img src="https://img.shields.io/badge/DOCKER-CONTAINERS-2496ED?style=for-the-badge" alt="Docker">
 
-    </tr>
+<img src="https://img.shields.io/badge/KUBERNETES-ORCHESTRATION-326CE5?style=for-the-badge" alt="Kubernetes">
 
-    <tr>
-
-      <td align="center">
-        <div style="
-          background:#FACC15;
-          color:#111111;
-          padding:14px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          HUGGING FACE
-        </div>
-      </td>
-
-      <td align="center">
-        <div style="
-          background:#111111;
-          color:white;
-          padding:14px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          OLLAMA
-        </div>
-      </td>
-
-      <td align="center">
-        <div style="
-          background:#336791;
-          color:white;
-          padding:14px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          POSTGRESQL
-        </div>
-      </td>
-
-      <td align="center">
-        <div style="
-          background:#DC382D;
-          color:white;
-          padding:14px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          REDIS
-        </div>
-      </td>
-
-      <td align="center">
-        <div style="
-          background:#14B8A6;
-          color:white;
-          padding:14px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          PINECONE
-        </div>
-      </td>
-
-    </tr>
-
-    <tr>
-
-      <td align="center">
-        <div style="
-          background:#2496ED;
-          color:white;
-          padding:14px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          DOCKER
-        </div>
-      </td>
-
-      <td align="center">
-        <div style="
-          background:#326CE5;
-          color:white;
-          padding:14px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          KUBERNETES
-        </div>
-      </td>
-
-      <td align="center">
-        <div style="
-          background:#FF9900;
-          color:#111111;
-          padding:14px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          AWS
-        </div>
-      </td>
-
-      <td align="center">
-        <div style="
-          background:#0EA5E9;
-          color:white;
-          padding:14px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          LLM
-        </div>
-      </td>
-
-      <td align="center">
-        <div style="
-          background:#9333EA;
-          color:white;
-          padding:14px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          RAG
-        </div>
-      </td>
-
-    </tr>
-
-  </table>
+<img src="https://img.shields.io/badge/AWS-CLOUD-232F3E?style=for-the-badge" alt="AWS">
 
 </div>
 
-<br>
-
-<!-- ========================= -->
-<!--       WHAT I BUILD         -->
-<!-- ========================= -->
+---
 
 <div align="center">
 
-  <h2 style="color:#EC4899;">What I Build</h2>
+## BUILDING INTELLIGENT SYSTEMS WITH AI
 
-  <br>
+<strong>
+AI ENGINEERING • LLM • RAG • AGENTIC AI • FASTAPI • DATABASES • CLOUD
+</strong>
 
-  <table>
+<br><br>
 
-    <tr>
-
-      <td align="center" width="300">
-
-        <h3 style="color:#58a6ff;">
-          LLM Applications
-        </h3>
-
-        <p>
-          Intelligent applications powered by
-          Large Language Models, prompt engineering
-          and modern AI APIs.
-        </p>
-
-      </td>
-
-      <td align="center" width="300">
-
-        <h3 style="color:#A855F7;">
-          RAG Systems
-        </h3>
-
-        <p>
-          Document intelligence, semantic search,
-          embeddings, vector databases and
-          context-aware AI applications.
-        </p>
-
-      </td>
-
-      <td align="center" width="300">
-
-        <h3 style="color:#14B8A6;">
-          AI Agents
-        </h3>
-
-        <p>
-          Autonomous AI workflows using
-          LangGraph, LangChain, tools,
-          memory and structured workflows.
-        </p>
-
-      </td>
-
-    </tr>
-
-    <tr>
-
-      <td align="center" width="300">
-
-        <h3 style="color:#F97316;">
-          Backend APIs
-        </h3>
-
-        <p>
-          High-performance APIs and backend
-          services using Python and FastAPI.
-        </p>
-
-      </td>
-
-      <td align="center" width="300">
-
-        <h3 style="color:#3B82F6;">
-          Vector Search
-        </h3>
-
-        <p>
-          Embedding pipelines, semantic retrieval,
-          vector databases and knowledge systems.
-        </p>
-
-      </td>
-
-      <td align="center" width="300">
-
-        <h3 style="color:#22C55E;">
-          Cloud & DevOps
-        </h3>
-
-        <p>
-          Containerized AI applications,
-          Kubernetes workloads and AWS
-          cloud deployment.
-        </p>
-
-      </td>
-
-    </tr>
-
-  </table>
-
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--       AI ARCHITECTURE      -->
-<!-- ========================= -->
-
-<div align="center">
-
-  <h2 style="color:#58a6ff;">AI Engineering Architecture</h2>
-
-  <br>
-
-  <table>
-
-    <tr>
-
-      <td align="center">
-
-        <div style="
-          background:#3776AB;
-          color:white;
-          padding:18px 25px;
-          border-radius:12px;
-          font-weight:bold;
-        ">
-          PYTHON
-        </div>
-
-      </td>
-
-      <td align="center">
-
-        <div style="
-          color:#58a6ff;
-          font-size:25px;
-        ">
-          →
-        </div>
-
-      </td>
-
-      <td align="center">
-
-        <div style="
-          background:#009688;
-          color:white;
-          padding:18px 25px;
-          border-radius:12px;
-          font-weight:bold;
-        ">
-          FASTAPI
-        </div>
-
-      </td>
-
-      <td align="center">
-
-        <div style="
-          color:#58a6ff;
-          font-size:25px;
-        ">
-          →
-        </div>
-
-      </td>
-
-      <td align="center">
-
-        <div style="
-          background:#16A34A;
-          color:white;
-          padding:18px 25px;
-          border-radius:12px;
-          font-weight:bold;
-        ">
-          LANGCHAIN
-        </div>
-
-      </td>
-
-      <td align="center">
-
-        <div style="
-          color:#58a6ff;
-          font-size:25px;
-        ">
-          →
-        </div>
-
-      </td>
-
-      <td align="center">
-
-        <div style="
-          background:#7C3AED;
-          color:white;
-          padding:18px 25px;
-          border-radius:12px;
-          font-weight:bold;
-        ">
-          LANGGRAPH
-        </div>
-
-      </td>
-
-    </tr>
-
-    <tr>
-
-      <td colspan="7" align="center">
-
-        <br>
-
-        <div style="
-          background:#14B8A6;
-          color:white;
-          padding:18px 35px;
-          border-radius:12px;
-          font-weight:bold;
-        ">
-          RAG + VECTOR SEARCH + LLM + AI AGENTS
-        </div>
-
-        <br>
-
-      </td>
-
-    </tr>
-
-    <tr>
-
-      <td align="center">
-
-        <div style="
-          background:#336791;
-          color:white;
-          padding:15px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          POSTGRESQL
-        </div>
-
-      </td>
-
-      <td></td>
-
-      <td align="center">
-
-        <div style="
-          background:#DC382D;
-          color:white;
-          padding:15px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          REDIS
-        </div>
-
-      </td>
-
-      <td></td>
-
-      <td align="center">
-
-        <div style="
-          background:#14B8A6;
-          color:white;
-          padding:15px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          PINECONE
-        </div>
-
-      </td>
-
-      <td></td>
-
-      <td align="center">
-
-        <div style="
-          background:#FF9900;
-          color:#111111;
-          padding:15px 22px;
-          border-radius:10px;
-          font-weight:bold;
-        ">
-          AWS
-        </div>
-
-      </td>
-
-    </tr>
-
-  </table>
-
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--       CURRENT FOCUS        -->
-<!-- ========================= -->
-
-<div align="center">
-
-  <h2 style="color:#F59E0B;">Current Focus</h2>
-
-  <br>
-
-  <table>
-
-    <tr>
-
-      <td align="center" width="250">
-
-        <h3 style="color:#58a6ff;">
-          LLM Engineering
-        </h3>
-
-        <p>
-          Building applications around
-          modern Large Language Models.
-        </p>
-
-      </td>
-
-      <td align="center" width="250">
-
-        <h3 style="color:#A855F7;">
-          Agentic AI
-        </h3>
-
-        <p>
-          Designing intelligent multi-step
-          AI workflows and autonomous agents.
-        </p>
-
-      </td>
-
-      <td align="center" width="250">
-
-        <h3 style="color:#14B8A6;">
-          RAG
-        </h3>
-
-        <p>
-          Building reliable knowledge-based
-          AI applications with retrieval.
-        </p>
-
-      </td>
-
-      <td align="center" width="250">
-
-        <h3 style="color:#F97316;">
-          Cloud
-        </h3>
-
-        <p>
-          Deploying scalable AI services
-          using containers and AWS.
-        </p>
-
-      </td>
-
-    </tr>
-
-  </table>
-
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--       DEVELOPMENT          -->
-<!-- ========================= -->
-
-<div align="center">
-
-  <h2 style="color:#58a6ff;">Development Philosophy</h2>
-
-  <br>
-
-  <table>
-
-    <tr>
-
-      <td align="center" width="250">
-
-        <h3 style="color:#3776AB;">
-          Build
-        </h3>
-
-        <p>
-          Convert ideas into working
-          AI-powered applications.
-        </p>
-
-      </td>
-
-      <td align="center" width="250">
-
-        <h3 style="color:#16A34A;">
-          Learn
-        </h3>
-
-        <p>
-          Continuously explore modern
-          AI engineering technologies.
-        </p>
-
-      </td>
-
-      <td align="center" width="250">
-
-        <h3 style="color:#A855F7;">
-          Improve
-        </h3>
-
-        <p>
-          Optimize architecture,
-          performance and reliability.
-        </p>
-
-      </td>
-
-      <td align="center" width="250">
-
-        <h3 style="color:#F97316;">
-          Deploy
-        </h3>
-
-        <p>
-          Turn prototypes into
-          production-ready systems.
-        </p>
-
-      </td>
-
-    </tr>
-
-  </table>
-
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--       TECH CATEGORIES      -->
-<!-- ========================= -->
-
-<div align="center">
-
-  <h2 style="color:#EC4899;">Technology Categories</h2>
-
-  <br>
-
-  <table>
-
-    <tr>
-
-      <td align="center" width="200">
-
-        <h3 style="color:#3776AB;">
-          Programming
-        </h3>
-
-        <p>Python</p>
-
-      </td>
-
-      <td align="center" width="200">
-
-        <h3 style="color:#FF6F00;">
-          AI / ML
-        </h3>
-
-        <p>
-          TensorFlow<br>
-          Hugging Face
-        </p>
-
-      </td>
-
-      <td align="center" width="200">
-
-        <h3 style="color:#A855F7;">
-          LLM
-        </h3>
-
-        <p>
-          LangChain<br>
-          LangGraph<br>
-          Ollama
-        </p>
-
-      </td>
-
-      <td align="center" width="200">
-
-        <h3 style="color:#009688;">
-          Backend
-        </h3>
-
-        <p>
-          FastAPI
-        </p>
-
-      </td>
-
-    </tr>
-
-    <tr>
-
-      <td align="center" width="200">
-
-        <h3 style="color:#336791;">
-          Database
-        </h3>
-
-        <p>
-          PostgreSQL
-        </p>
-
-      </td>
-
-      <td align="center" width="200">
-
-        <h3 style="color:#DC382D;">
-          Cache
-        </h3>
-
-        <p>
-          Redis
-        </p>
-
-      </td>
-
-      <td align="center" width="200">
-
-        <h3 style="color:#14B8A6;">
-          Vector DB
-        </h3>
-
-        <p>
-          Pinecone
-        </p>
-
-      </td>
-
-      <td align="center" width="200">
-
-        <h3 style="color:#2496ED;">
-          DevOps
-        </h3>
-
-        <p>
-          Docker<br>
-          Kubernetes
-        </p>
-
-      </td>
-
-    </tr>
-
-    <tr>
-
-      <td colspan="4" align="center">
-
-        <br>
-
-        <div style="
-          background:#FF9900;
-          color:#111111;
-          padding:16px 40px;
-          border-radius:12px;
-          font-size:18px;
-          font-weight:bold;
-          display:inline-block;
-        ">
-          AMAZON WEB SERVICES
-        </div>
-
-      </td>
-
-    </tr>
-
-  </table>
-
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--       PROFILE FOOTER       -->
-<!-- ========================= -->
-
-<div align="center">
-
-  <hr>
-
-  <h2 style="color:#58a6ff;">
-    AI Engineer | LLM | RAG | Agentic AI | FastAPI
-  </h2>
-
-  <p style="color:#8b949e; font-size:16px;">
-    Building intelligent systems with modern AI engineering technologies.
-  </p>
-
-  <br>
-
-  <p>
-    <b style="color:#3776AB;">Python</b>
-    &nbsp;•&nbsp;
-    <b style="color:#FF6F00;">TensorFlow</b>
-    &nbsp;•&nbsp;
-    <b style="color:#009688;">FastAPI</b>
-    &nbsp;•&nbsp;
-    <b style="color:#16A34A;">LangChain</b>
-    &nbsp;•&nbsp;
-    <b style="color:#7C3AED;">LangGraph</b>
-    &nbsp;•&nbsp;
-    <b style="color:#FACC15;">Hugging Face</b>
-    &nbsp;•&nbsp;
-    <b style="color:#111111;">Ollama</b>
-  </p>
-
-  <p>
-    <b style="color:#336791;">PostgreSQL</b>
-    &nbsp;•&nbsp;
-    <b style="color:#DC382D;">Redis</b>
-    &nbsp;•&nbsp;
-    <b style="color:#14B8A6;">Pinecone</b>
-    &nbsp;•&nbsp;
-    <b style="color:#2496ED;">Docker</b>
-    &nbsp;•&nbsp;
-    <b style="color:#326CE5;">Kubernetes</b>
-    &nbsp;•&nbsp;
-    <b style="color:#FF9900;">AWS</b>
-  </p>
-
-  <br>
-
-  <p style="color:#8b949e;">
-    Designed and built by Manoj S
-  </p>
+<strong>Manoj | AI Engineer</strong>
 
 </div>

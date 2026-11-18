@@ -361,130 +361,386 @@ Context-aware applications
 
 ---
 
+<!-- ========================================================= -->
+<!--              PROFESSIONAL AI ARCHITECTURE                -->
+<!-- ========================================================= -->
+
 # AI ENGINEERING ARCHITECTURE
 
 <div align="center">
 
 <table>
 <tr>
+<td align="center" colspan="7">
 
-<td align="center">
+<img src="https://img.shields.io/badge/USER%20%26%20APPLICATION%20LAYER-111827?style=for-the-badge" alt="Application Layer">
 
-<strong>USER</strong>
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/WEB%20APP-4F46E5?style=for-the-badge" alt="Web App">
 
-↓
+&nbsp;&nbsp;
 
-<br>
+<img src="https://img.shields.io/badge/MOBILE%20APP-7C3AED?style=for-the-badge" alt="Mobile App">
 
-<strong>FRONTEND</strong>
+&nbsp;&nbsp;
 
-<br>
+<img src="https://img.shields.io/badge/AI%20ASSISTANT-9333EA?style=for-the-badge" alt="AI Assistant">
 
-↓
+</td>
+</tr>
 
-<br>
-
-<strong>FASTAPI</strong>
-
-<br>
-
-↓
-
-<br>
-
-<strong>LANGGRAPH</strong>
-
-<br>
+<tr>
+<td align="center" colspan="7">
 
 ↓
 
-<br>
+<br><br>
 
-<strong>LANGCHAIN</strong>
+<img src="https://img.shields.io/badge/API%20%26%20BACKEND%20LAYER-0F766E?style=for-the-badge" alt="Backend Layer">
 
-<br>
+<br><br>
 
-↓
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge" alt="FastAPI">
 
-<br>
+&nbsp;&nbsp;
 
-<strong>LLM</strong>
+<img src="https://img.shields.io/badge/REST%20API-0F766E?style=for-the-badge" alt="REST API">
 
-<br>
+&nbsp;&nbsp;
 
-↓
+<img src="https://img.shields.io/badge/AUTH%20%26%20VALIDATION-115E59?style=for-the-badge" alt="Authentication">
 
-<br>
+</td>
+</tr>
 
-<strong>RAG PIPELINE</strong>
-
-<br>
-
-↓
-
-<br>
-
-<strong>EMBEDDINGS</strong>
-
-<br>
+<tr>
+<td align="center" colspan="7">
 
 ↓
 
-<br>
+<br><br>
 
-<strong>PINECONE</strong>
+<img src="https://img.shields.io/badge/AI%20ORCHESTRATION%20LAYER-1E3A8A?style=for-the-badge" alt="AI Orchestration">
 
-<br>
+<br><br>
 
-↓
+<img src="https://img.shields.io/badge/LANGGRAPH-000000?style=for-the-badge" alt="LangGraph">
 
-<br>
+&nbsp;&nbsp;
 
-<strong>POSTGRESQL</strong>
+<img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge" alt="LangChain">
 
-<br>
+&nbsp;&nbsp;
 
-↓
+<img src="https://img.shields.io/badge/AGENT%20WORKFLOWS-1E40AF?style=for-the-badge" alt="Agent Workflows">
 
-<br>
+</td>
+</tr>
 
-<strong>REDIS</strong>
-
-<br>
-
-↓
-
-<br>
-
-<strong>DOCKER</strong>
-
-<br>
+<tr>
+<td align="center" colspan="7">
 
 ↓
 
+<br><br>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<strong>LLM LAYER</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face">
+
 <br>
 
-<strong>KUBERNETES</strong>
+<img src="https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge" alt="Ollama">
 
 <br>
 
-↓
+<img src="https://img.shields.io/badge/LLM%20APIs-374151?style=for-the-badge" alt="LLM APIs">
+
+</td>
+
+<td align="center" width="33%">
+
+<strong>RAG LAYER</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/EMBEDDINGS-4B5563?style=for-the-badge" alt="Embeddings">
 
 <br>
 
-<strong>AWS</strong>
+<img src="https://img.shields.io/badge/RETRIEVAL-374151?style=for-the-badge" alt="Retrieval">
+
+<br>
+
+<img src="https://img.shields.io/badge/CONTEXT%20ENGINEERING-1F2937?style=for-the-badge" alt="Context Engineering">
+
+</td>
+
+<td align="center" width="33%">
+
+<strong>TOOL LAYER</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/APIs-2563EB?style=for-the-badge" alt="APIs">
+
+<br>
+
+<img src="https://img.shields.io/badge/TOOLS-7C3AED?style=for-the-badge" alt="Tools">
+
+<br>
+
+<img src="https://img.shields.io/badge/AUTOMATION-9333EA?style=for-the-badge" alt="Automation">
 
 </td>
 
 </tr>
 </table>
 
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="7">
+
+↓
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DATA%20%26%20KNOWLEDGE%20LAYER-334155?style=for-the-badge" alt="Data Layer">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PINECONE-000000?style=for-the-badge" alt="Pinecone">
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge" alt="PostgreSQL">
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge" alt="Redis">
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="7">
+
+↓
+
+<br><br>
+
+<img src="https://img.shields.io/badge/INFRASTRUCTURE%20LAYER-172554?style=for-the-badge" alt="Infrastructure Layer">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge" alt="Docker">
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge" alt="Kubernetes">
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS">
+
+</td>
+</tr>
+
+</table>
+
 </div>
 
 ---
 
+## PRODUCTION AI SYSTEM FLOW
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+<strong>INPUT</strong>
+
+<br><br>
+
+User Query<br>
+Documents<br>
+Business Data
+
+</td>
+
+<td align="center">
+
+<strong>→</strong>
+
+</td>
+
+<td align="center">
+
+<strong>API</strong>
+
+<br><br>
+
+FastAPI<br>
+Authentication<br>
+Validation
+
+</td>
+
+<td align="center">
+
+<strong>→</strong>
+
+</td>
+
+<td align="center">
+
+<strong>ORCHESTRATION</strong>
+
+<br><br>
+
+LangGraph<br>
+LangChain<br>
+Agent Routing
+
+</td>
+
+<td align="center">
+
+<strong>→</strong>
+
+</td>
+
+<td align="center">
+
+<strong>INTELLIGENCE</strong>
+
+<br><br>
+
+LLM<br>
+RAG<br>
+Tools
+
+</td>
+
+<td align="center">
+
+<strong>→</strong>
+
+</td>
+
+<td align="center">
+
+<strong>DATA</strong>
+
+<br><br>
+
+Pinecone<br>
+PostgreSQL<br>
+Redis
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## DEPLOYMENT ARCHITECTURE
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+<strong>DEVELOPMENT</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge" alt="Python">
+
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge" alt="FastAPI">
+
+</td>
+
+<td align="center">
+
+<strong>CONTAINERIZATION</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge" alt="Docker">
+
+</td>
+
+<td align="center">
+
+<strong>ORCHESTRATION</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge" alt="Kubernetes">
+
+</td>
+
+<td align="center">
+
+<strong>CLOUD</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS">
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### AI ENGINEERING STACK
+
+<img src="https://img.shields.io/badge/AI-ENGINEERING-111827?style=for-the-badge" alt="AI Engineering">
+
+<img src="https://img.shields.io/badge/LLM-APPLICATIONS-1C3C3C?style=for-the-badge" alt="LLM Applications">
+
+<img src="https://img.shields.io/badge/RAG-KNOWLEDGE%20SYSTEMS-5E35B1?style=for-the-badge" alt="RAG">
+
+<img src="https://img.shields.io/badge/AGENTIC%20AI-000000?style=for-the-badge" alt="Agentic AI">
+
+<img src="https://img.shields.io/badge/BACKEND-FASTAPI-009688?style=for-the-badge" alt="Backend">
+
+<img src="https://img.shields.io/badge/DATA-POSTGRESQL%20%7C%20REDIS-4169E1?style=for-the-badge" alt="Data">
+
+<img src="https://img.shields.io/badge/VECTOR-PINECONE-000000?style=for-the-badge" alt="Pinecone">
+
+<img src="https://img.shields.io/badge/CLOUD-AWS-232F3E?style=for-the-badge" alt="AWS">
+
+</div>
 # WHAT I BUILD
 
 <div align="center">
